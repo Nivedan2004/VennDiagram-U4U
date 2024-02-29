@@ -44,7 +44,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>U4U Venn Diagram Quiz</h1>
+      <h1>Venn Diagram Quiz</h1>
 
       {!namesSubmitted && (
         <div className="player-names">
